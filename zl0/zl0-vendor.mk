@@ -359,6 +359,20 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/zl0/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libmdtp.so:system/vendor/lib/libmdtp.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libmdtp_crypto.so:system/vendor/lib/libmdtp_crypto.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libchromaflash.so:vendor/lib/libchromaflash.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libllvd_smore.so:vendor/lib/libllvd_smore.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera2_dcrf.so:vendor/lib/libmmcamera2_dcrf.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_chromaflash_lib.so:vendor/lib/libmmcamera_chromaflash_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_dcrf_lib.so:vendor/lib/libmmcamera_dcrf_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_llvd.so:vendor/lib/libmmcamera_llvd.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_optizoom_lib.so:vendor/lib/libmmcamera_optizoom_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_stillmore_lib.so:vendor/lib/libmmcamera_stillmore_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_trueportrait_lib.so:vendor/lib/libmmcamera_trueportrait_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera_ubifocus_lib.so:vendor/lib/libmmcamera_ubifocus_lib.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/liboptizoom.so:vendor/lib/liboptizoom.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libseemore.so:vendor/lib/libseemore.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libtrueportrait.so:vendor/lib/libtrueportrait.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libubifocus.so:vendor/lib/libubifocus.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
